@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+    .tittle{
+        padding: 10px;
+        font-family: sans-serif;
+        background: #11294d;
+        color: #fff;
+        text-align: center;
+
+    }
+    body{
+        background:  #f3f4f5;
+    }
+    .decripcion{
+        color: #757575;
+        margin: 20px;
+        font-family: Georgia ;
+        font-size: 18px;
+    }
+    .ing{
+        color: #757575;
+        margin: 20px;
+        font-family: Georgia ;
+        font-size: 18px;
+    }
+    .ingredientes{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .ingredientes ul li{
+
+        color: #757575;
+        margin: 10px;
+        font-family: Georgia ;
+        font-size: 18px;
+    }
+    .bandeja{
+        color: #757575;
+        margin: 10px;
+        font-family: Georgia ;
+        font-size: 18px;
+    }
+    img{
+        text-align: center;
+        width: 100%;
+    }
